@@ -49,3 +49,4 @@ testApp
 -isolate-0x*
 ssl
 package-lock.json
+config.bat
