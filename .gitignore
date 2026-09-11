@@ -32,4 +32,7 @@ isolate-0x*
 # Other
 ############################
 .node_history
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
