@@ -48,4 +48,7 @@ testApp
 -coverage
 -isolate-0x*
 ssl
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
