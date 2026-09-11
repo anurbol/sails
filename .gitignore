@@ -47,4 +47,7 @@ nbproject
 # misc
 ############################
 dump.rdb
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
